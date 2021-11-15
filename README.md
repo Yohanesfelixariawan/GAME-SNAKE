@@ -1,2 +1,2 @@
-# contoh-game-sederhana
+# SNAKE GAME
 Kumpulan Game Sederhana Berbasis Pemrograman C
